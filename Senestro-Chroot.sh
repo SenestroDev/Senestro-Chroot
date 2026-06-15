@@ -74,7 +74,7 @@ LOG_FILE="$LOG_DIR/senestro-chroot.log"
 ROOTFS_URL="https://cdimage.ubuntu.com/ubuntu-base/releases/22.04/release/ubuntu-base-22.04-base-arm64.tar.gz"
 ROOTFS_TAR="$BASE_DIR/ubuntu-base-22.04-arm64.tar.gz"
 SCRIPT_VERSION="1.4"
-SCRIPT_UPDATE_URL="https://raw.githubusercontent.com/Senestro88/Senestro-Chroot/refs/heads/main/Senestro-Chroot.sh"
+SCRIPT_UPDATE_URL="https://raw.githubusercontent.com/SenestroDev/Senestro-Chroot/refs/heads/main/Senestro-Chroot.sh"
 
 
 # =============================================================================
